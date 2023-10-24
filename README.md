@@ -3,7 +3,7 @@
 ### :woman_technologist: About Me :
 Hi, I'm Mariela but everybody calls me Mari. <br>
 I'm from Rio de Janeiro/Brasil and I work with iOS since 2018.<br>
-I also am interested in hybrid development, especially in Flutter.<br>
+I am also interested in hybrid development, especially in Flutter.<br>
 Besides that, I'm a complete nerd who likes to code, to see trash films with my boyfriend and to play Stardew Valley.
 
 ### :computer: My Github Stats :
