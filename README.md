@@ -13,7 +13,7 @@ Besides that, I'm a complete nerd who likes to code, to see trash films with my 
   &nbsp;&nbsp; -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=themaripool&theme=radical&line_height=27">
   &nbsp;&nbsp;
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=themaripool&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<!--   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=themaripool&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /> -->
 </p>
 
 ### :bulb: Tools I Have Used:
